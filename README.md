@@ -1,1 +1,2 @@
-# Kodluyoruz---Front-end
+# Kodluyoruz - Front-end
+### Patika HTML Dersi Ödev 1
